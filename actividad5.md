@@ -99,3 +99,7 @@ Resuelve las siguientes operaciones con los números complejos
 
 66) 3(cos 180 + i sin 180)=-3
 ````
+<img width="1346" height="1600" alt="image" src="https://github.com/user-attachments/assets/a5ac1d43-849b-41b4-84b8-2d9a93be2c3a" />
+<img width="1215" height="1600" alt="image" src="https://github.com/user-attachments/assets/65426381-d5a2-4728-88e4-b348678495c7" />
+<img width="1600" height="1563" alt="image" src="https://github.com/user-attachments/assets/8170b6e2-aa2f-42e1-8f3e-51befeb31684" />
+
