@@ -103,3 +103,90 @@ Resuelve las siguientes operaciones con los números complejos
 <img width="1215" height="1600" alt="image" src="https://github.com/user-attachments/assets/65426381-d5a2-4728-88e4-b348678495c7" />
 <img width="1600" height="1563" alt="image" src="https://github.com/user-attachments/assets/8170b6e2-aa2f-42e1-8f3e-51befeb31684" />
 
+
+ ## EJERCICIOS 7
+````
+73) 00001111_2
+= 0 + 0 + 0 + 0 + 8 + 4 + 2 + 1
+
+Resultado: 15_10
+= 128 + 0 + 0 + 16 + 8 + 0 + 0 + 1
+Resultado: 153_10
+74) 10011001_2
+= 128 + 64 + 0 + 0 + 8 + 4 + 0 + 0
+Resultado: 204_10
+75) 11001100_2
+= 128 + 64 + 0 + 0 + 8 + 4 + 0 + 0
+Resultado: 204_10
+76) 01111011_2
+= 0 + 64 + 32 + 16 + 8 + 0 + 2 + 1
+Resultado: 123_10
+77) 00000000 11111111_2
+=128 + 64 + 32 + 16 + 8 + 4 + 2 + 1
+Resultado: 255_10
+78) 00000010 00000000_2
+1 - 2^9 = 512
+Resultado: 512_10
+````
+## Ejercicios 8
+````
+85) 11011010_2
+Resultado: DA_16
+
+86) 01111100_2
+Resultado: 7C_16
+
+87) 10110101_2
+Resultado: B5_16
+
+88)11110000 10100101_2
+Resultado: F0A5_16
+
+89)00001111 00001111_2
+Resultado: 0F0F_16
+
+90)10000000 00000001_2
+Resultado: 8001_16
+
+````
+## Ejercicios 9
+````
+91) 325_8
+Resultado: 011010101_2
+
+92) 156_8
+Resultado: 001101110_2
+
+93) 377_8
+Resultado: 011111111_2
+
+94)01777_8
+Resultado: 000001111111111_2
+
+95) 03700_8
+Resultado: 000011111000000_2
+
+96) 05255_8
+Resultado: 000101010101101_2
+
+````
+## Ejercicios 10
+````
+97) DA_16
+Resultado: 11011010_2
+
+98) 7C_16
+Resultado: 01111100_2
+
+99) B5_16
+Resultado: 10110101_2
+
+100) F0A5_16
+Resultado: 1111000010100101_2
+
+101) 0F0F_16
+Resultado: 0000111100001111_2
+
+102) 8001_16
+Resultado: 1000000000000001_2
+
