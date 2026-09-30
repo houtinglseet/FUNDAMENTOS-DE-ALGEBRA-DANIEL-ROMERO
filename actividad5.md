@@ -190,4 +190,339 @@ Resultado: 0000111100001111_2
 102) 8001_16
 Resultado: 1000000000000001_2
 ````
+## Ejercicio 10
+
+### 109)
+- **Expresión:** `1/8 + 1/J = 1/3.08`
+- **Paso 1 (Despejar 1/J):** `1/J = (1 / 3.08) - (1 / 8)`
+- **Paso 2 (Calcular tasas):** `1/J = 0.324675 - 0.125 = 0.199675`
+- **Resultado:** `5.01 horas`
+
+---
+
+### 110)
+- **Expresión:** `1/T = 1/5 + 1/7`
+- **Paso 1 (Sumar fracciones):** `1/T = (7 + 5) / 35 = 12/35`
+- **Paso 2 (Despejar T):** `T = 35 / 12`
+- **Resultado:** `2.92 horas (o 2 horas y 55 minutos)`
+
+---
+
+### 111)
+- **Expresión:** `v_carga * t_carga = v_fuerza * t_fuerza`
+- **Paso 1 (Sustituir valores):** `v * (4 + 6) = 310 * 6`
+- **Paso 2 (Despejar v):** `10v = 1860 => v = 1860 / 10`
+- **Resultado:** `186 km/h`
+
+---
+
+### 112)
+- **Expresión:** `v_ida * t_ida = v_regreso * t_regreso`
+- **Paso 1 (Sustituir valores):** `35 * t_ida = 49 * 10`
+- **Paso 2 (Despejar t_ida):** `35 * t_ida = 490 => t_ida = 490 / 35`
+- **Resultado:** `14 horas`
+
+---
+
+### 113)
+- **Expresión:** `(1 * 0.30) + (4 * 0.20) = (1 + 4) * x`
+- **Paso 1 (Sumar cantidades):** `0.30 + 0.80 = 5x`
+- **Paso 2 (Despejar x):** `1.10 = 5x => x = 1.10 / 5`
+- **Resultado:** `22%`
+
+---
+
+### 114)
+- **Expresión:** `(7 * 0.11) + (6 * 0.24) = (7 + 6) * x`
+- **Paso 1 (Sumar cantidades):** `0.77 + 1.44 = 13x`
+- **Paso 2 (Despejar x):** `2.21 = 13x => x = 2.21 / 13`
+- **Resultado:** `17
+
 ## Ejercicio 11
+
+### 115)
+- **Expresión:** `(5 - 11v) - (-3v^2 + 9 - 13v)`
+- **Paso 1 (Eliminar paréntesis):** `5 - 11v + 3v^2 - 9 + 13v`
+- **Paso 2 (Agrupar semejantes):** `3v^2 + (-11v + 13v) + (5 - 9)`
+- **Resultado:** `3v^2 + 2v - 4`
+
+---
+
+### 116)
+- **Expresión:** `(-14n^4 + 3n^5) + (-12n^4 + 4n + 2n^5)`
+- **Paso 1 (Eliminar paréntesis):** `-14n^4 + 3n^5 - 12n^4 + 4n + 2n^5`
+- **Paso 2 (Agrupar semejantes):** `(3n^5 + 2n^5) + (-14n^4 - 12n^4) + 4n`
+- **Resultado:** `5n^5 - 26n^4 + 4n`
+
+---
+
+### 117)
+- **Expresión:** `(4b^2 + 7b^4 + 12b - 7) + (11 + 7b + 4b^2) + (10b^4 + b)`
+- **Paso 1 (Eliminar paréntesis):** `4b^2 + 7b^4 + 12b - 7 + 11 + 7b + 4b^2 + 10b^4 + b`
+- **Paso 2 (Agrupar semejantes):** `(7b^4 + 10b^4) + (4b^2 + 4b^2) + (12b + 7b + b) + (-7 + 11)`
+- **Resultado:** `17b^4 + 8b^2 + 20b + 4`
+
+---
+
+### 118)
+- **Expresión:** `(3 - 2x - 9x^4 - 8x^5) - (1 + 9x^5 + 6x) + (13x^2 + 8x^5)`
+- **Paso 1 (Eliminar paréntesis):** `3 - 2x - 9x^4 - 8x^5 - 1 - 9x^5 - 6x + 13x^2 + 8x^5`
+- **Paso 2 (Agrupar semejantes):** `(-8x^5 - 9x^5 + 8x^5) - 9x^4 + 13x^2 + (-2x - 6x) + (3 - 1)`
+- **Resultado:** `-9x^5 - 9x^4 + 13x^2 - 8x + 2`
+
+---
+
+### 119)
+- **Expresión:** `(11b^4 + 5b^2 + 8 + 9b^3) + (6b^4 - 8b^2 - 7) + (-13b^3 + 11b^4)`
+- **Paso 1 (Eliminar paréntesis):** `11b^4 + 5b^2 + 8 + 9b^3 + 6b^4 - 8b^2 - 7 - 13b^3 + 11b^4`
+- **Paso 2 (Agrupar semejantes):** `(11b^4 + 6b^4 + 11b^4) + (9b^3 - 13b^3) + (5b^2 - 8b^2) + (8 - 7)`
+- **Resultado:** `28b^4 - 4b^3 - 3b^2 + 1`
+
+---
+
+### 120)
+- **Expresión:** `(-11n^2 + 9n^5 + 11n^4 + 12n) - (-9n^5 + 7 - 8n^4) + (-2n^2 - 14n^5)`
+- **Paso 1 (Eliminar paréntesis):** `-11n^2 + 9n^5 + 11n^4 + 12n + 9n^5 - 7 + 8n^4 - 2n^2 - 14n^5`
+- **Paso 2 (Agrupar semejantes):** `(9n^5 + 9n^5 - 14n^5) + (11n^4 + 8n^4) + (-11n^2 - 2n^2) + 12n - 7`
+- **Resultado:** `4n^5 + 19n^4 - 13n^2 + 12n - 7`
+
+## Ejercicio 13
+
+### 121)
+- **Expresión:** `-3b(-b^2 - 5b - 2)`
+- **Paso 1 (Multiplicar términos):** `(-3b)(-b^2) + (-3b)(-5b) + (-3b)(-2)`
+- **Resultado:** `3b^3 + 15b^2 + 6b`
+
+---
+
+### 122)
+- **Expresión:** `3n(-3n^2 - n + 4)`
+- **Paso 1 (Multiplicar términos):** `(3n)(-3n^2) + (3n)(-n) + (3n)(4)`
+- **Resultado:** `-9n^3 - 3n^2 + 12n`
+
+---
+
+### 123)
+- **Expresión:** `8(-7m^2 - 5m - 8)`
+- **Paso 1 (Multiplicar términos):** `(8)(-7m^2) + (8)(-5m) + (8)(-8)`
+- **Resultado:** `-56m^2 - 40m - 64`
+
+---
+
+### 124)
+- **Expresión:** `-8(6x^2 + 4x + 5)`
+- **Paso 1 (Multiplicar términos):** `(-8)(6x^2) + (-8)(4x) + (-8)(5)`
+- **Resultado:** `-48x^2 - 32x - 40`
+
+---
+
+### 125)
+- **Expresión:** `2(2x^2 - 6x - 4)`
+- **Paso 1 (Multiplicar términos):** `(2)(2x^2) + (2)(-6x) + (2)(-4)`
+- **Resultado:** `4x^2 - 12x - 8`
+
+---
+
+### 126)
+- **Expresión:** `-7r^2(-3r^2 + 3r - 8)`
+- **Paso 1 (Multiplicar términos):** `(-7r^2)(-3r^2) + (-7r^2)(3r) + (-7r^2)(-8)`
+- **Resultado:** `21r^4 - 21r^3 + 56r^2`
+
+---
+
+### 127)
+- **Expresión:** `(8n - 6)(3n^2 - 6n + 8)`
+- **Paso 1 (Distribución):** `8n(3n^2 - 6n + 8) - 6(3n^2 - 6n + 8)`
+- **Paso 2 (Multiplicar y simplificar):** `24n^3 - 48n^2 + 64n - 18n^2 + 36n - 48`
+- **Resultado:** `24n^3 - 66n^2 + 100n - 48`
+
+---
+
+### 128)
+- **Expresión:** `(6n + 3)(5n^2 - 3n - 5)`
+- **Paso 1 (Distribución):** `6n(5n^2 - 3n - 5) + 3(5n^2 - 3n - 5)`
+- **Paso 2 (Multiplicar y simplificar):** `30n^3 - 18n^2 - 30n + 15n^2 - 9n - 15`
+- **Resultado:** `30n^3 - 3n^2 - 39n - 15`
+
+---
+
+### 129)
+- **Expresión:** `(8b + 3)(5b^2 + 2b - 5)`
+- **Paso 1 (Distribución):** `8b(5b^2 + 2b - 5) + 3(5b^2 + 2b - 5)`
+- **Paso 2 (Multiplicar y simplificar):** `40b^3 + 16b^2 - 40b + 15b^2 + 6b - 15`
+- **Resultado:** `40b^3 + 31b^2 - 34b - 15`
+
+---
+
+### 130)
+- **Expresión:** `(8x - 7)(2x^2 - x - 6)`
+- **Paso 1 (Distribución):** `8x(2x^2 - x - 6) - 7(2x^2 - x - 6)`
+- **Paso 2 (Multiplicar y simplificar):** `16x^3 - 8x^2 - 48x - 14x^2 + 7x + 42`
+- **Resultado:** `16x^3 - 22x^2 - 41x + 42`
+
+---
+
+### 131)
+- **Expresión:** `(5x - 7)(2x^2 + 3x + 3)`
+- **Paso 1 (Distribución):** `5x(2x^2 + 3x + 3) - 7(2x^2 + 3x + 3)`
+- **Paso 2 (Multiplicar y simplificar):** `10x^3 + 15x^2 + 15x - 14x^2 - 21x - 21`
+- **Resultado:** `10x^3 + x^2 - 6x - 21`
+
+---
+
+### 132)
+- **Expresión:** `(5x - 2)(8x^2 + 7x - 2)`
+- **Paso 1 (Distribución):** `5x(8x^2 + 7x - 2) - 2(8x^2 + 7x - 2)`
+- **Paso 2 (Multiplicar y simplificar):** `40x^3 + 35x^2 - 10x - 16x^2 - 14x + 4`
+- **Resultado:** `40x^3 + 19x^2 - 24x + 4`
+
+## Ejercicio 14
+
+### 133)
+- **Expresión:** `(a^2 * (3a^2)^2) / (2a^0)`
+- **Paso 1 (Simplificar potencias y a^0):** `(a^2 * 9a^4) / (2 * 1)`
+- **Paso 2 (Multiplicar numeradores):** `9a^6 / 2`
+- **Resultado:** `(9/2)a^6`
+
+---
+
+### 134)
+- **Expresión:** `((3r^3 * 2r^3) / (2r * r^2))^2`
+- **Paso 1 (Simplificar dentro del paréntesis):** `(6r^6 / 2r^3)^2`
+- **Paso 2 (Dividir):** `(3r^3)^2`
+- **Resultado:** `9r^6`
+
+---
+
+### 135)
+- **Expresión:** `(v^0 * (3v^3)^2) / ((v^0)^3)`
+- **Paso 1 (Simplificar v^0 = 1):** `(1 * 9v^6) / (1^3)`
+- **Paso 2 (Simplificar):** `9v^6 / 1`
+- **Resultado:** `9v^6`
+
+---
+
+### 136)
+- **Expresión:** `(2v^3 / (2v^2 * 3v))^3`
+- **Paso 1 (Simplificar denominador):** `(2v^3 / 6v^3)^3`
+- **Paso 2 (Reducir fracción):** `(1/3)^3`
+- **Resultado:** `1/27`
+
+---
+
+### 137)
+- **Expresión:** `((3x)^3 / (3x * 3x))^2`
+- **Paso 1 (Desarrollar potencias internas):** `(27x^3 / 9x^2)^2`
+- **Paso 2 (Simplificar dentro del paréntesis):** `(3x)^2`
+- **Resultado:** `9x^2`
+
+---
+
+### 138)
+- **Expresión:** `(x^2 * (2x^2)^2) / (3x)`
+- **Paso 1 (Desarrollar potencia):** `(x^2 * 4x^4) / (3x)`
+- **Paso 2 (Multiplicar y dividir):** `4x^6 / 3x`
+- **Resultado:** `(4/3)x^5`
+
+---
+
+### 139)
+- **Expresión:** `sqrt(18x^3)`
+- **Paso 1 (Factorizar en cuadrados perfectos):** `sqrt(9 * 2 * x^2 * x)`
+- **Paso 2 (Extraer términos):** `3 * x * sqrt(2x)`
+- **Resultado:** `3x sqrt(2x)`
+
+---
+
+### 140)
+- **Expresión:** `root(4)(80n^6)`
+- **Paso 1 (Factorizar potencias cuartas):** `root(4)(16 * 5 * n^4 * n^2)`
+- **Paso 2 (Extraer términos):** `2 * n * root(4)(5n^2)`
+- **Resultado:** `2n root(4)(5n^2)`
+
+---
+
+### 141)
+- **Expresión:** `sqrt(192n^3)`
+- **Paso 1 (Factorizar en cuadrados perfectos):** `sqrt(64 * 3 * n^2 * n)`
+- **Paso 2 (Extraer términos):** `8 * n * sqrt(3n)`
+- **Resultado:** `8n sqrt(3n)`
+
+---
+
+### 142)
+- **Expresión:** `sqrt(288n)`
+- **Paso 1 (Factorizar en cuadrados perfectos):** `sqrt(144 * 2 * n)`
+- **Paso 2 (Extraer términos):** `12 * sqrt(2n)`
+- **Resultado:** `12 sqrt(2n)`
+
+---
+
+### 143)
+- **Expresión:** `sqrt(18v^2)`
+- **Paso 1 (Factorizar en cuadrados perfectos):** `sqrt(9 * 2 * v^2)`
+- **Paso 2 (Extraer términos):** `3 * v * sqrt(2)`
+- **Resultado:** `3v sqrt(2)`
+
+---
+
+### 144)
+- **Expresión:** `root(4)(32n^4)`
+- **Paso 1 (Factorizar potencias cuartas):** `root(4)(16 * 2 * n^4)`
+- **Paso 2 (Extraer términos):** `2 * n * root(4)(2)`
+- **Resultado:** `2n root(4)(2)`
+
+---
+
+## Ejercicio 15
+
+### 145)
+- **Expresión:** `2 / (5 + 3 sqrt(3))`
+- **Paso 1 (Racionalizar con conjugado):** `(2 * (5 - 3 sqrt(3))) / ((5 + 3 sqrt(3))(5 - 3 sqrt(3)))`
+- **Paso 2 (Diferencia de cuadrados en denominador):** `(10 - 6 sqrt(3)) / (25 - 27)`
+- **Paso 3 (Simplificar denominador -2):** `(10 - 6 sqrt(3)) / -2`
+- **Resultado:** `-5 + 3 sqrt(3)`
+
+---
+
+### 146)
+- **Expresión:** `4 / (5 sqrt(3) - 4)`
+- **Paso 1 (Racionalizar con conjugado):** `(4 * (5 sqrt(3) + 4)) / ((5 sqrt(3) - 4)(5 sqrt(3) + 4))`
+- **Paso 2 (Diferencia de cuadrados en denominador):** `(20 sqrt(3) + 16) / (75 - 16)`
+- **Resultado:** `(20 sqrt(3) + 16) / 59`
+
+---
+
+### 147)
+- **Expresión:** `2 / (3 sqrt(2) + 5 sqrt(3))`
+- **Paso 1 (Racionalizar con conjugado):** `(2 * (3 sqrt(2) - 5 sqrt(3))) / ((3 sqrt(2) + 5 sqrt(3))(3 sqrt(2) - 5 sqrt(3)))`
+- **Paso 2 (Diferencia de cuadrados en denominador):** `(6 sqrt(2) - 10 sqrt(3)) / (18 - 75)`
+- **Paso 3 (Simplificar signo):** `(6 sqrt(2) - 10 sqrt(3)) / -57`
+- **Resultado:** `(-6 sqrt(2) + 10 sqrt(3)) / 57`
+
+---
+
+### 148)
+- **Expresión:** `4 / (sqrt(3) - 2)`
+- **Paso 1 (Racionalizar con conjugado):** `(4 * (sqrt(3) + 2)) / ((sqrt(3) - 2)(sqrt(3) + 2))`
+- **Paso 2 (Diferencia de cuadrados en denominador):** `(4 sqrt(3) + 8) / (3 - 4)`
+- **Paso 3 (Dividir entre -1):** `(4 sqrt(3) + 8) / -1`
+- **Resultado:** `-4 sqrt(3) - 8`
+
+---
+
+### 149)
+- **Expresión:** `3 / (-4 + 4 sqrt(2))`
+- **Paso 1 (Racionalizar con conjugado):** `(3 * (-4 - 4 sqrt(2))) / ((-4 + 4 sqrt(2))(-4 - 4 sqrt(2)))`
+- **Paso 2 (Diferencia de cuadrados en denominador):** `(-12 - 12 sqrt(2)) / (16 - 32)`
+- **Paso 3 (Simplificar entre -16):** `(-12 - 12 sqrt(2)) / -16`
+- **Resultado:** `(3 + 3 sqrt(2)) / 4`
+
+---
+
+### 150)
+- **Expresión:** `2 / (4 + sqrt(2))`
+- **Paso 1 (Racionalizar con conjugado):** `(2 * (4 - sqrt(2))) / ((4 + sqrt(2))(4 - sqrt(2)))`
+- **Paso 2 (Diferencia de cuadrados en denominador):** `(8 - 2 sqrt(2)) / (16 - 2)`
+- **Paso 3 (Reducir fracción):** `(8 - 2 sqrt(2)) / 14`
+- **Resultado:** `(4 - sqrt(2)) / 7`
