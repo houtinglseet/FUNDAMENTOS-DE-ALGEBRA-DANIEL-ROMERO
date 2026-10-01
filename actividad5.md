@@ -1,4 +1,4 @@
-## Fundamentos de algebra 
+## FUNDAMENTOS-DE-ALGEBRA-DANIEL-ROMERO
 Ejercicios 19-72
 
 Ejercicio 1
