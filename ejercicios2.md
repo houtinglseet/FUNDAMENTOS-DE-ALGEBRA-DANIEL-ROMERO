@@ -1,10 +1,7 @@
 ## Fundamentos de algebra 2
 
-ejercicio 1
-
-# Ejercicios del 1 al 32
-# Ejercicios del 1 al 32 - Preguntas y Soluciones
-
+# Ejercicios del 1 al 32 
+````
 1. (r - 5)^2 = r^2 - 10r + 25
 2. (7 + 3r)^2 = 49 + 42r + 9r^2
 3. (4v + 5)^2 = 16v^2 + 40v + 25
@@ -37,3 +34,4 @@ ejercicio 1
 30. (y + 4)^3 = y^3 + 12y^2 + 48y + 64
 31. (4m + 2n^2)^3 = 64m^3 + 96m^2n^2 + 48mn^4 + 8n^6
 32. (y^2 - 5)^3 = y^6 - 15y^4 + 75y^2 - 125
+`````
