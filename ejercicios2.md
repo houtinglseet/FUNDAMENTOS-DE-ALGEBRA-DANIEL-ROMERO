@@ -35,3 +35,124 @@
 31. (4m + 2n^2)^3 = 64m^3 + 96m^2n^2 + 48mn^4 + 8n^6
 32. (y^2 - 5)^3 = y^6 - 15y^4 + 75y^2 - 125
 `````
+## Ejercicios de 33 a 55
+### 33) 5n³ + 31n² - 28n
+1. **Factor común:** n(5n² + 31n - 28)
+2. **Trinomio (ax² + bx + c):** 5(-28) = -140; números: 35 y -4.
+* **Resultado:** `n(5n - 4)(n + 7)`
+
+---
+
+### 34) 42n² + 180n + 162
+1. **Factor común:** 6(7n² + 30n + 27)
+2. **Trinomio (ax² + bx + c):** 7(27) = 189; números: 21 y 9.
+* **Resultado:** `6(7n + 9)(n + 3)`
+
+---
+
+### 35) 28k² - 260k + 288
+1. **Factor común:** 4(7k² - 65k + 72)
+2. **Trinomio (ax² + bx + c):** 7(72) = 504; números: -56 y -9.
+* **Resultado:** `4(7k - 9)(k - 8)`
+
+---
+
+### 36) 5n² + 16n + 12
+1. **Trinomio (ax² + bx + c):** 5(12) = 60; números: 10 y 6.
+2. **Factorización por agrupación:** 5n(n + 2) + 6(n + 2).
+* **Resultado:** `(5n + 6)(n + 2)`
+
+---
+
+### 37) 7p² - 31p + 30
+1. **Trinomio (ax² + bx + c):** 7(30) = 210; números: -21 y -10.
+2. **Factorización por agrupación:** 7p(p - 3) - 10(p - 3).
+* **Resultado:** `(7p - 10)(p - 3)`
+
+---
+
+### 38) 7x² + 5x
+1. **Factor común:** Exponemos la variable común x.
+* **Resultado:** `x(7x + 5)`
+
+---
+
+### 39) 42x² + 90x - 108
+1. **Factor común:** 6(7x² + 15x - 18)
+2. **Trinomio (ax² + bx + c):** 7(-18) = -126; números: 21 y -6.
+* **Resultado:** `6(7x - 6)(x + 3)`
+
+---
+
+### 40) 7n² + 67n - 30
+1. **Trinomio (ax² + bx + c):** 7(-30) = -210; números: 70 y -3.
+2. **Factorización por agrupación:** 7n(n + 10) - 3(n + 10).
+* **Resultado:** `(7n - 3)(n + 10)`
+
+---
+
+### 41) 24n² - 24n + 6
+1. **Factor común:** 6(4n² - 4n + 1)
+2. **Trinomio Cuadrado Perfecto:** √(4n²) = 2n y √(1) = 1.
+* **Resultado:** `6(2n - 1)²`
+
+---
+
+### 42) 24x² + 216x + 486
+1. **Factor común:** 6(4x² + 36x + 81)
+2. **Trinomio Cuadrado Perfecto:** √(4x²) = 2x y √(81) = 9.
+* **Resultado:** `6(2x + 9)²`
+
+---
+
+### 43) 64m² - 112m + 49
+1. **Trinomio Cuadrado Perfecto:** √(64m²) = 8m y √(49) = 7.
+2. **Comprobación:** 2(8m)(7) = 112m.
+* **Resultado:** `(8m - 7)²`
+
+---
+
+### 44) 100n² + 20n + 1
+1. **Trinomio Cuadrado Perfecto:** √(100n²) = 10n y √(1) = 1.
+2. **Comprobación:** 2(10n)(1) = 20n.
+* **Resultado:** `(10n + 1)²`
+
+---
+
+### 45) 81x⁶ - 90x³ + 25
+1. **Trinomio Cuadrado Perfecto:** √(81x⁶) = 9x³ y √(25) = 5.
+2. **Comprobación:** 2(9x³)(5) = 90x³.
+* **Resultado:** `(9x³ - 5)²`
+
+---
+
+### 46) 147k⁶ - 336k³ + 192
+1. **Factor común:** 3(49k⁶ - 112k³ + 64)
+2. **Trinomio Cuadrado Perfecto:** √(49k⁶) = 7k³ y √(64) = 8.
+* **Resultado:** `3(7k³ - 8)²`
+
+---
+
+### 47) 36a⁸ - 192a⁵ + 256a²
+1. **Factor común:** 4a²(9a⁶ - 48a³ + 64)
+2. **Trinomio Cuadrado Perfecto:** √(9a⁶) = 3a³ y √(64) = 8.
+* **Resultado:** `4a²(3a³ - 8)²`
+
+---
+
+### 48) 49 + 28p³ + 4p⁶
+1. **Trinomio Cuadrado Perfecto:** √(49) = 7 y √(4p⁶) = 2p³.
+2. **Comprobación:** 2(7)(2p³) = 28p³.
+* **Resultado:** `(2p³ + 7)²`
+
+---
+
+### 49) 9x² - 49
+1. **Diferencia de Cuadrados:** √(9x²) = 3x y √(49) = 7.
+* **Resultado:** `(3x + 7)(3x - 7)`
+
+---
+
+### 50) 4a² - 81
+1. **Diferencia de Cuadrados:** √(4a²) = 2a y √(81) = 9.
+* **Resultado:** `(2a + 9)(2
